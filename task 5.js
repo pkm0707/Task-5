@@ -1,3 +1,4 @@
+//Create your own resume data in JSON Format
 let resume = {
     "Basics":{
         "Name":"Praveen Kumar M",
@@ -40,13 +41,13 @@ let resume = {
         "b":"Ethical Hacking Offered by CEG Guindy Campus, Anna University, Chennai."
     },
     "SkillsEarned":"C Programming,NI LabVIEW,MATLAB & Simulink,MS Office Packages",
-    "Certificates Earned":{
+    "CertificatesEarned":{
         "a":"National Solar Vehicle Challenge (NSVC), conducted by DYNAMIST MOTORSPORTS in Visvesvaraya National Institute of Technology, Nagpur, Maharashtra",
         "b":"Soft Skills and Personality Development conducted by NPTEL",
         "c":"Completed Python programming Course in UDEMY"
     },
     "Hobbies":" Reading Books,Cycling, Playing Cricket, Carom & Chess",
-    "Languages known":"Tamil (speak & write),English (speak & write), Hindi (speak)",
+    "Languagesknown":"Tamil (speak & write),English (speak & write), Hindi (speak)",
     "Declaration":"I hereby declare that the above furnished information is authentic to the best of my knowledge",
     "Signature":"Praveen kumar M"
 }

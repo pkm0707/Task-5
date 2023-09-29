@@ -6,19 +6,19 @@ let resume = {
         "MobileNo":"9587463254",
         "EmailId":"pkm007@gmail.com",
     },
-    "CarrerObjective":"To work with passion for a leading organization which recognize employees    qualification and provide opportunities to learn and progress along with organization.",
-    "Academic Details":{
+    "CarrerObjective":"To work with passion for a leading organization which recognize employees qualification and provide opportunities to learn and progress along with organization.",
+    "AcademicDetails":{
         "PGdegree":"M.E Power System",
-        "PGdegree passed out":"2023",
+        "PGdegreepassedout":"2023",
         "PGCollege":"TCE",
         "PGCGPA":"9.21",
         "UGdegree":"B.E EEE",
-        "UGdegree passed out":"2021",
+        "UGdegreepassedout":"2021",
         "UGCollege":"MSEC",
         "UGCGPA":"8.12",
         "HSC":"BIO-MATHS",
-        "HSCCutt-off":"181.19",
-        "SSLCCut-off":"92.24", 
+        "HSCCuttoff":"181.19",
+        "SSLCCutoff":"92.24", 
         "School":"TMHNU"
     },
     "FieldofInterest":"Power System Analysis,Electric Vehicles,Renewable Energy (solar & wind )",
@@ -32,7 +32,7 @@ let resume = {
             "b":"Kaynes & LeePra Technologies, Electrical & Electronics Manufacturing Company, Mysore, Karnataka."
         },
         "InplantTraining":{
-            "1":"Bharat Sanchar Nigam Limited (BSNL) Telecommunication Technologies, Theni."
+            "a":"Bharat Sanchar Nigam Limited (BSNL) Telecommunication Technologies, Theni."
         }
     },
     "WorkshopsAttended":{
